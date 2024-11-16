@@ -80,7 +80,9 @@
     align-items: center;
     justify-content: space-between;
     margin-top: 50px;
-    gap: 15px;
+}
+.abt-card{
+    width: 200px;
 }
 .container .abt-card img{
     border: 4px solid #3882F6;
