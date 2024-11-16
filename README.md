@@ -10,7 +10,7 @@ To view the website click on this link for a live preview
 (https://atkthedeveloper.github.io/landing-page/)
 
 ## Credits
-Creditations for all the images I used 
+Sources for all the images I used 
 * Photo by <a href="https://unsplash.com/@kalenemsley?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Kalen Emsley</a> on <a href="https://unsplash.com/photos/body-of-water-surrounding-with-trees-_LuLiJc1cdo?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
 
 * Photo by <a href="https://unsplash.com/@draufsicht?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Andreas Gücklhorn</a> on <a href="https://unsplash.com/photos/birds-eye-view-photography-of-trees-and-body-of-water-mawU2PoJWfU?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
