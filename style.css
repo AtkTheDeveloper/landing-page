@@ -65,6 +65,7 @@
     border-radius: 6px;
     font-size: 15px;
     font-weight: 700;
+    cursor: pointer;
 }
 /* About Section */
 .about .abt-text{
@@ -72,13 +73,13 @@
     font-weight: 900;
     color: #1F2937;
     text-align: center;
-    margin-top: 30px;
+    margin-top: 50px;
 }
 .about .container{
     display: flex;
     align-items: center;
     justify-content: space-between;
-    margin-top: 30px;
+    margin-top: 50px;
     gap: 15px;
 }
 .container .abt-card img{
@@ -87,5 +88,69 @@
 }
 .container .abt-card p{
     text-align: center;
+    font-size: 20px;
+}
+/* Quote Section */
+.quote{
+    background-color: #E5E7EB;
+    margin-top: 50px;
+}
+.quote .container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    padding: 60px;
+}
+.quote .container p{
+    font-size: 36px;
+    font-weight: lighter;
+    font-style: italic;
+    color: #1F2937;
+    margin: 10px;
+}
+.quote .container h3{
+    margin-left: auto;
+}
+/* Call To Action Section */
+.cta{
+    margin-top: 50px;
+}
+.cta .container{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    background-color: #3882F6;
+    padding: 30px;
+    border-radius: 8px;
+}
+.cta-txt h3{
+    color: white;
+    font-size: 30px;
+}
+.cta p{
+    color: white;
+    font-size: 15px;
+}
+.cta button{
+    padding: 10px 40px 10px 40px;
+    background-color: transparent;
+    color: white;
+    border: 1px solid white;
+    border-radius: 6px;
+    font-size: 15px;
+    font-weight: 700;
+    cursor: pointer;
+}
+/* Footer Section */
+.footer{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 40px;
+}
+.footer p{
+    color: white;
+    padding: 30px;
     font-size: 20px;
 }
